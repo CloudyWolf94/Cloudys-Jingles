@@ -1,9 +1,13 @@
 {
-  "name": "Cloudy Jingle Pack",
-  "ps2": [
+  "name": "Example Jingle Pack",
+  "entries": [
     {
       "game": "Sly 2 - Band of Thieves",
-      "file": "jingles/ps2/Sly2.wav"
+      "file": "jingles/Sly2.wav"
     },
+    {
+      "game": "Example Game 2",
+      "file": "jingles/example-game-2.mp3"
+    }
   ]
 }
